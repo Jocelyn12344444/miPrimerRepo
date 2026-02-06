@@ -9,3 +9,6 @@ git push
 ```
 ## Nota:
 Si no me dice quien soy, entonces necesito restaurar la PC.
+
+# nota:
+Aprendiendo a elaborar mi repo
